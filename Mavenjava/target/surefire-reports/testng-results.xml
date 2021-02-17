@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="78" started-at="2021-02-17T16:47:12 EST" finished-at="2021-02-17T16:47:12 EST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="78" started-at="2021-02-17T16:47:12 EST" finished-at="2021-02-17T16:47:12 EST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="mobileapp()[pri:0, instance:qaclickacademy.AppiumTest@5ce81285]" name="mobileapp" duration-ms="9" started-at="2021-02-17T16:47:12 EST" finished-at="2021-02-17T16:47:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestapiTest">
+        <test-method status="PASS" signature="mobileapp()[pri:0, instance:qaclickacademy.RestapiTest@78c03f1f]" name="mobileapp" duration-ms="0" started-at="2021-02-17T16:47:12 EST" finished-at="2021-02-17T16:47:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+      </class> <!-- qaclickacademy.RestapiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="SelTest()[pri:0, instance:qaclickacademy.SeleniumTest@5ec0a365]" name="SelTest" duration-ms="0" started-at="2021-02-17T16:47:12 EST" finished-at="2021-02-17T16:47:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelTest -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
