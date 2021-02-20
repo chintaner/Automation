@@ -7,5 +7,10 @@ public class AppiumTest {
 	public void mobileapp() {
 		System.out.println("mobileapp");
 	}
+	
+	@Test
+	public void NewTest() {
+		System.out.println("New test");
+	}
 
 }
